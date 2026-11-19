@@ -1,0 +1,2 @@
+# mcp-odoo
+mcp-odoo
